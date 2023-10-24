@@ -1,0 +1,23 @@
+DOCTYPE Declaration in HTML
+
+
+DOCTYPE declaration in html tells about the version of html.
+
+It also tells the browser that it is an HTML 5 document.
+
+In HTML 5 THE DECLARATION IS 
+
+    <!DOCTYPE html>
+
+DECLARATION IN OLDER VERSIONS ARE DIFFERENT FROM HTML 5 DECLARATION.
+
+It is not case senstive.
+So we can also type:--
+
+<!doctype html>
+
+OR
+
+<!docType html>
+
+ 

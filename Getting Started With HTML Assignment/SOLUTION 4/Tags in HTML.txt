@@ -1,0 +1,14 @@
+The short note on tags on HTML are as follows:-
+
+Tags are the bsic units of an Html document.
+Tags are written as follows:-
+opening tag :-  <tagname>
+closing tag :-  </tagname>
+
+There are various tags in Html like <head>,<body> and <title> etc.
+
+The closing tag is made by help of 'slash' (/).
+
+like <p></p>
+
+some tags in html does not need closing tags like <br> and <hr>.

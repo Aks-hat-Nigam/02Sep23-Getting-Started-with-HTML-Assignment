@@ -1,0 +1,19 @@
+Solution:
+
+The purpose of comments in HTML are as follows:-
+* Comments in HTML are used for programmer understanding.
+* They make the code feasible and easy to understand.
+* They are for humans, not for compiler.
+* They help the user regarding regarding ---> debugging
+					 ---> reminer
+					 ---> remaining work in progress
+					 ---> documentation
+
+Usage of comments in HTML are as follows:
+
+<!-- This is example of single line comments in html -->
+
+
+<!-- This is an example
+of multiline 
+comments in html --> 
